@@ -1,2 +1,2 @@
 # coze-home
- https://kulikovavarvara.github.io/coze-home/
+https://kulikovavarvara.github.io/Coze-home2/
